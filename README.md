@@ -1,4 +1,3 @@
-![Image of LignumLogo](https://helsys.com.ar/wp-content/uploads/2020/03/lignum-logo-480x480.png)
 # LIGNUM BOOTCAMP 07/2020 #
 
 ### Bienvenidos al bootcamp acelerado de agosto 2020.  ###
