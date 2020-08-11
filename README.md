@@ -1,5 +1,7 @@
 # LIGNUM BOOTCAMP 07/2020 #
 
+![LignumLogo](https://helsys.com.ar/wp-content/uploads/2020/03/lignum-logo-480x480.png)
+
 ### Bienvenidos al bootcamp acelerado de agosto 2020.  ###
 
 Este curso supone que ya superaron los conocimientos básicos de HTML-CSS-JS, validaciones, accesibilidad, media-queries, layouts, 
